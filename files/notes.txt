@@ -1,0 +1,139 @@
+# 📘 Basic Math Notes
+
+## 🔹 What is Mathematics?
+Mathematics is the study of numbers, quantities, shapes, and patterns. It is used in science, engineering, economics, and daily life.
+
+---
+
+## 🔹 Number Systems
+
+### 1. Natural Numbers
+1, 2, 3, 4, ...
+
+### 2. Whole Numbers
+0, 1, 2, 3, ...
+
+### 3. Integers
+..., -2, -1, 0, 1, 2, ...
+
+### 4. Rational Numbers
+Numbers that can be written as a fraction (e.g., 1/2, 3/4)
+
+### 5. Irrational Numbers
+Cannot be written as fractions (e.g., √2, π)
+
+---
+
+## 🔹 Basic Operations
+
+### Addition (+)
+Example: 2 + 3 = 5
+
+### Subtraction (-)
+Example: 5 - 2 = 3
+
+### Multiplication (×)
+Example: 4 × 3 = 12
+
+### Division (÷)
+Example: 10 ÷ 2 = 5
+
+---
+
+## 🔹 Algebra
+
+### Variables
+Letters used to represent numbers (e.g., x, y)
+
+### Expression
+Combination of numbers and variables  
+Example: 2x + 3
+
+### Equation
+Two expressions are equal  
+Example: 2x + 3 = 7
+
+---
+
+## 🔹 Geometry
+
+### Common Shapes
+- Triangle
+- Square
+- Circle
+- Rectangle
+
+### Area Formulas
+- Square: side × side
+- Rectangle: length × width
+- Triangle: 1/2 × base × height
+- Circle: πr²
+
+---
+
+## 🔹 Trigonometry
+
+### Basic Ratios
+- sinθ = opposite / hypotenuse
+- cosθ = adjacent / hypotenuse
+- tanθ = opposite / adjacent
+
+---
+
+## 🔹 Calculus
+
+### Derivative
+Rate of change  
+Example: d/dx (x²) = 2x
+
+### Integration
+Area under a curve  
+Example: ∫x dx = x²/2
+
+---
+
+## 🔹 Probability
+
+Probability = (favorable outcomes) / (total outcomes)
+
+Example:
+Chance of getting head in a coin toss = 1/2
+
+---
+
+## 🔹 Statistics
+
+### Mean
+Average = sum of values / number of values
+
+### Median
+Middle value
+
+### Mode
+Most frequent value
+
+---
+
+## 🔹 Important Formulas
+
+- (a + b)² = a² + 2ab + b²  
+- (a - b)² = a² - 2ab + b²  
+- a² - b² = (a + b)(a - b)
+
+---
+
+## 🔹 Tips
+
+- Practice daily
+- Understand concepts, don’t memorize blindly
+- Solve problems step by step
+- Revise formulas regularly
+
+---
+
+## ✅ Summary
+
+Mathematics includes numbers, algebra, geometry, calculus, and statistics.  
+It helps solve real-world problems and builds logical thinking.
+
+---
