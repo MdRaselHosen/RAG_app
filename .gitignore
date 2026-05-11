@@ -1,0 +1,113 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# VS Code / IDE
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Build / Distribution
+# =========================
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Database
+# =========================
+*.sqlite3
+*.db
+
+# =========================
+# RAG Application Files
+# =========================
+
+# Vector databases
+chroma_db/
+faiss_index/
+vectorstore/
+db/
+
+# Uploaded / processed documents
+uploads/
+documents/
+data/
+
+# Model cache
+.cache/
+models/
+hf_cache/
+
+# LangChain cache
+.langchain/
+
+# Temporary files
+temp/
+tmp/
+
+# Embedding cache
+embeddings/
+
+# =========================
+# Mistral AI
+# =========================
+
+# API keys and secrets
+mistral_api_key.txt
+secrets.json
+
+# Mistral cache
+.mistral/
+
+# =========================
+# PyTorch / Transformers
+# =========================
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# =========================
+# Mac/Linux Specific
+# =========================
+*.pid
+*.out
+*.err
