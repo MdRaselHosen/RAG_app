@@ -8,3 +8,6 @@ def text_loader():
         return docs[0].page_content
     except Exception as e:
         return f"An error occurred: {e}"
+    
+
+

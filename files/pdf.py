@@ -8,7 +8,7 @@ splitter = RecursiveCharacterTextSplitter(
 def pdf_loader():
     try:
 
-        data = PyPDFLoader("notes.pdf")
+        data = PyPDFLoader("files/deeplearning.pdf")
 
         docs = data.load()
 
@@ -17,8 +17,8 @@ def pdf_loader():
     except Exception as e:
         return f"An error occurred: {e}"
     
-data = pdf_loader()
-chunks = splitter.split_documents(data)
-print(len(chunks))
-print(chunks[0].page_content)
+# data = pdf_loader()
+# chunks = splitter.split_documents(data)
+# print(len(chunks))
+# print(chunks[0].page_content)
 
